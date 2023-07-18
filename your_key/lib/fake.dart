@@ -1,4 +1,4 @@
-//import 'dart:math';
+// import 'dart:math';
 
 // void main() {
 //   var random = Random();
@@ -12,12 +12,13 @@
 //   print(values.join());
 // }
 
- // final random = Random();
-    // const chars = 'abcdefghijklmnopqrstuvwxyz0123456789&\$#@*)-=(%''""!';
+//  final random = Random();
+//     const chars = 'abcdefghijklmnopqrstuvwxyz0123456789&\$#@*)-=(%''""!';
 
-    // String randomString = '';
-    // for (int i = 0; i < length; i++) {
-    //   int randomIndex = random.nextInt(chars.length);
-    //   randomString += chars[randomIndex];
-    // }
-    // return randomString;
+//     String randomString = '';
+//     for (int i = 0; i < length; i++) {
+//       int randomIndex = random.nextInt(chars.length);
+//       randomString += chars[randomIndex];
+//     }
+//     return randomString;
+

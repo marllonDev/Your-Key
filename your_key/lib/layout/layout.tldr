@@ -66,9 +66,9 @@
     {
       "id": "pointer:pointer",
       "typeName": "pointer",
-      "x": 550.5360485171784,
-      "y": 312.21348579262184,
-      "lastActivityTimestamp": 1689186720231,
+      "x": 712.8346204178979,
+      "y": 439.303322103942,
+      "lastActivityTimestamp": 1689469902930,
       "meta": {}
     },
     {
@@ -79,9 +79,9 @@
       "typeName": "page"
     },
     {
-      "x": -143.49603997225654,
-      "y": 269.44154350425316,
-      "z": 1,
+      "x": -108.94512680446175,
+      "y": 64.91897624312662,
+      "z": 1.61051,
       "meta": {},
       "id": "camera:page:-SD3Pq0WVVy8mGCy45Ih0",
       "typeName": "camera"
@@ -123,7 +123,7 @@
       "screenBounds": {
         "x": 0,
         "y": 0,
-        "w": 729.6000366210938,
+        "w": 1534.080078125,
         "h": 858.2400512695312
       },
       "zoomBrush": null,
@@ -167,8 +167,8 @@
       "typeName": "shape"
     },
     {
-      "x": 434.0157775878906,
-      "y": 61.468692779541016,
+      "x": 432.50562750101983,
+      "y": 51.44989340113662,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
@@ -285,8 +285,8 @@
       "meta": {},
       "type": "geo",
       "props": {
-        "w": 160.66671752929688,
-        "h": 24.000030517578125,
+        "w": 210.36620995158273,
+        "h": 24.800182614802907,
         "geo": "rectangle",
         "color": "black",
         "labelColor": "black",
@@ -375,37 +375,8 @@
       "typeName": "shape"
     },
     {
-      "x": 568.0000915527344,
-      "y": 156.33328247070312,
-      "rotation": 0,
-      "isLocked": false,
-      "opacity": 1,
-      "meta": {},
-      "type": "geo",
-      "props": {
-        "w": 36.6666259765625,
-        "h": 26.666671752929688,
-        "geo": "rectangle",
-        "color": "black",
-        "labelColor": "black",
-        "fill": "none",
-        "dash": "draw",
-        "size": "m",
-        "font": "draw",
-        "text": "",
-        "align": "middle",
-        "verticalAlign": "middle",
-        "growY": 0,
-        "url": ""
-      },
-      "parentId": "page:-SD3Pq0WVVy8mGCy45Ih0",
-      "index": "aC",
-      "id": "shape:msT_zkXjAbMGV1rUC-eyO",
-      "typeName": "shape"
-    },
-    {
-      "x": 403.3333740234375,
-      "y": 204.3332977294922,
+      "x": 397.91274300050065,
+      "y": 204.3985012900588,
       "rotation": 0,
       "isLocked": false,
       "opacity": 1,
